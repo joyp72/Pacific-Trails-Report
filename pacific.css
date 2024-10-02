@@ -3,7 +3,7 @@ header, hgroup, nav, footer, figure, figcaption, aside, section, article {
 }
 
 body {
-	background-image: url("/ptrbackground.jpg");
+	background-image: url("ptrbackground.jpg");
 	color: #666666;
 	width: 80%;
 	margin: 0 auto;
@@ -17,7 +17,7 @@ body {
 
 header {
 	color: #FFFFFF;
-	background-image: url("/sunset.jpg");
+	background-image: url("sunset.jpg");
 	background-position: right;
 	background-repeat: no-repeat;
 	background-color: #000033;
@@ -78,7 +78,7 @@ img {
 }
 
 #content > ul {
-	list-style-image: url("/marker.gif");
+	list-style-image: url("marker.gif");
 	list-style-position: inside;
 }
 
